@@ -1864,11 +1864,6 @@ __webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js"); //window.
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
-
-var app = new Vue({
-  el: '#app'
-});
-
 /***/ }),
 
 /***/ "./resources/js/bootstrap.js":

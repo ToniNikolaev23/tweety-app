@@ -22,9 +22,7 @@
     </head>
     <body class="antialiased">
         <div >
-          
-
-            <div class="content">
+          <div class="content">
                 <div class="title">
                     Tweety
                 </div>
