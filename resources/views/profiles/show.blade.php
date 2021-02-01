@@ -9,7 +9,7 @@
         </div>
         <div class="flex">
             @can("edit", $user)
-            <a href="{{ route('profile', $user->name)}}/edit" class="rounded-full border border-gray-300 py-2 px-2 text-black text-xs">Edit Profile</a>
+            <a href="{{ route('profile', $user->username)}}/edit" class="rounded-full border border-gray-300 py-2 px-2 text-black text-xs">Edit Profile</a>
             @endcan
             
             
